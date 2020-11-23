@@ -14,7 +14,7 @@ namespace UdemyNLayerProject.API.Extensions
     {
         public static void UseCustomException(this IApplicationBuilder app)
         {
-            //////////////
+            ////////////// Global düzeyde hataları ele almak
             app.UseExceptionHandler(config =>
             {
                 config.Run(async context =>
