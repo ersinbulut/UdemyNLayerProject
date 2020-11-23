@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace UdemyNLayerProject.API.DTOs
-{
+{//
     public class CategoryDto
     {
         public int Id { get; set; }
