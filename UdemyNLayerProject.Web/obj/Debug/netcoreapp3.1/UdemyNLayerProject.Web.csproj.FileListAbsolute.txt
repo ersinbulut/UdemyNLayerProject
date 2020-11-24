@@ -156,3 +156,4 @@ C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netc
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.csproj.CoreCompileInputs.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
