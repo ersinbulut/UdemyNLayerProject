@@ -12,8 +12,6 @@ C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netc
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.csprojAssemblyReference.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.AssemblyInfoInputs.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.AssemblyInfo.cs
-C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.csproj.CoreCompileInputs.cache
-C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.RazorAssemblyInfo.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.RazorAssemblyInfo.cs
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.TagHelpers.input.cache
@@ -81,3 +79,7 @@ C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netc
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Service.pdb
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.csproj.CoreCompileInputs.cache
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.MvcApplicationPartsAssemblyInfo.cache
