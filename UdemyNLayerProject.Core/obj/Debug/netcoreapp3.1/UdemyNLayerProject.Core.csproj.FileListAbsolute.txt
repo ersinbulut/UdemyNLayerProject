@@ -7,3 +7,12 @@ C:\Users\BULUTs\source\repos\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debu
 C:\Users\BULUTs\source\repos\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.csproj.CoreCompileInputs.cache
 C:\Users\BULUTs\source\repos\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
 C:\Users\BULUTs\source\repos\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.deps.json
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.csprojAssemblyReference.cache
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.AssemblyInfoInputs.cache
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.AssemblyInfo.cs
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb

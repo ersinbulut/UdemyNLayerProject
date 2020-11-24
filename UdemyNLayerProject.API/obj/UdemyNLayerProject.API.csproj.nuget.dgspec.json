@@ -30,12 +30,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
-                "projectPath": "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj"
-              },
-              "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj": {
-                "projectPath": "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj"
-              },
               "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj": {
                 "projectPath": "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj"
               }

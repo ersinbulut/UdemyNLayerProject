@@ -5880,8 +5880,6 @@
       "AutoMapper >= 10.1.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
-      "UdemyNLayerProject.Core >= 1.0.0",
-      "UdemyNLayerProject.Data >= 1.0.0",
       "UdemyNLayerProject.Service >= 1.0.0"
     ]
   },
@@ -5915,12 +5913,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
-              "projectPath": "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj"
-            },
-            "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj": {
-              "projectPath": "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj"
-            },
             "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj": {
               "projectPath": "C:\\Users\\BULUTs\\Desktop\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj"
             }
