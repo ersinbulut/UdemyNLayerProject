@@ -4,8 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using UdemyNLayerProject.Core.Models;
-using UdemyNLayerProject.Core.Services;
 using UdemyNLayerProject.Web.ApiService;
 using UdemyNLayerProject.Web.DTOs;
 using UdemyNLayerProject.Web.Filters;
@@ -14,14 +12,11 @@ namespace UdemyNLayerProject.Web.Controllers
 {
     public class CategoriesController : Controller
     {
-        private readonly ICategoryService _categoryService;
         private readonly CategoryApiService _categoryApiService;
         private readonly IMapper _mapper;
 
-        public CategoriesController(ICategoryService categoryService, IMapper mapper,
-            CategoryApiService categoryApiService)
+        public CategoriesController(IMapper mapper, CategoryApiService categoryApiService)
         {
-            _categoryService = categoryService;
             _mapper = mapper;
             _categoryApiService = categoryApiService;
         }

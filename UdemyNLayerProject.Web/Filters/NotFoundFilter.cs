@@ -4,25 +4,26 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UdemyNLayerProject.Web.ApiService;
 using UdemyNLayerProject.Web.DTOs;
-using UdemyNLayerProject.Core.Services;
+
 
 namespace UdemyNLayerProject.Web.Filters
 {
 
     public class NotFoundFilter:ActionFilterAttribute
     {
-        private readonly ICategoryService _categoryService;
+        private readonly CategoryApiService _categoryApiService;
 
-        public NotFoundFilter(ICategoryService categoryService)
+        public NotFoundFilter(CategoryApiService categoryApiService)
         {
-            _categoryService = categoryService;
+            _categoryApiService = categoryApiService;
         }
         public async override Task OnActionExecutionAsync(ActionExecutingContext context,
         ActionExecutionDelegate next)
         {
             int Id =(int) context.ActionArguments.Values.FirstOrDefault();
-            var product = await _categoryService.GetByIdAsync(Id);
+            var product = await _categoryApiService.GetByIdAsync(Id);
             if (product!=null)
             {
                 await next();
