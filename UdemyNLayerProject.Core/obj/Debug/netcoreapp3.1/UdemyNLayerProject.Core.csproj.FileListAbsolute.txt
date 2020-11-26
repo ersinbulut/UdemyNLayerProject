@@ -15,3 +15,4 @@ C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\net
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.csproj.CoreCompileInputs.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Core\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Core.csprojAssemblyReference.cache
