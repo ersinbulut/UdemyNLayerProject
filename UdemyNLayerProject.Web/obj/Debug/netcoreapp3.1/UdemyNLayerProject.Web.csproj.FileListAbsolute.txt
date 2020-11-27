@@ -9,7 +9,6 @@ C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netc
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Web.pdb
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Web.Views.dll
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Web.Views.pdb
-C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.csprojAssemblyReference.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.AssemblyInfoInputs.cache
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.AssemblyInfo.cs
 C:\Users\BULUTs\Desktop\UdemyNLayerProject\UdemyNLayerProject.Web\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Web.RazorAssemblyInfo.cache

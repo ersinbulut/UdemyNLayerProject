@@ -32,6 +32,11 @@ namespace UdemyNLayerProject.Web
                 opt.BaseAddress = new Uri(Configuration["baseUrl"]);
             });
 
+            services.AddHttpClient<ProductApiService>(opt =>
+            {
+                opt.BaseAddress = new Uri(Configuration["baseUrl"]);
+            });
+
             services.AddScoped<NotFoundFilter>();
             services.AddAutoMapper(typeof(Startup));
             services.AddControllersWithViews();
